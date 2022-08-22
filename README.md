@@ -6,3 +6,10 @@ cd Hola-Mundo
 git status
 git commit -m "cambio1"
 git push
+git status
+git fetch
+git status
+git pull
+dotnet new Console
+dotnet build
+dotnet run
