@@ -17,3 +17,5 @@ dotnet build
 dotnet run
 git add .
 git status
+git commit -m "cambio2"
+git push
