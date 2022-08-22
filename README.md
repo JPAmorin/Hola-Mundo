@@ -10,6 +10,10 @@ git status
 git fetch
 git status
 git pull
+mkdir src
+cd src
 dotnet new Console
 dotnet build
 dotnet run
+git add .
+git status
